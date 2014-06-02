@@ -1,5 +1,228 @@
-### Welcome to your project!
+## Introducció
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+Què és la impressió en 3D? Com funciona? Quin futur es dibuixa davant de la situació que tothom qui disposi d'una impressora 3D pugui imprimir qualsevol objecte? Creus que estem davant de la tercera revolució industrial? Vols dissenyar un objecte preparat per imprimir?
+
+Aquest curs et descobreix els conceptes generals de la impressió en 3D i et mostra perquè la distància entre el món virtual i el món físic s'escurça cada vegada més. Encara que no disposis d'una impressora 3D, tindràs l'oportunitat de crear un model en 3D, compartir-lo o, fins i tot, imprimir-lo a qualsevol dels diferents serveis d'impressió disponibles a la xarxa.   
+
+
+<iframe src="http://player.vimeo.com/video/66295175" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<small>
+Font: On The Media- 3D Printing from Nathan Fitch on Vimeo.
+</small>
+
+### Síl·labus
+
+
+* La impressió en 3D: 
+	* Un recorregut general sobre el procés de la impressió en 3D i el funcionament de les impressores 3D. 
+* Impacte de la impressió en 3D: 
+ 	* Coneix les oportunitats i els possibles efectes en la societat, el comerç, la indústria o la recerca. 
+* Disseny i creació: 
+	* Coneix el programari de disseny 3D per fer els teus models personalitzats. 
+* La publicació a Internet: 
+	* Opcions per publicar, compartir i imprimir el teu model 3D a la xarxa.
+
+### Prerequisits
+
+Cap
+
+### Dedicació horària
+
+15 hores 
+
+### Elaborat per
+
+Xavier Belanche 
+
+
+## Benvingut a la tercera revolució industrial 
+
+>En aquesta nova era, qualsevol pot ser fabricant, gestionar el seu lloc web i crear una empresa pròpia. Aquest procés rep el nom d'impressió en 3D.
+>  
+>Rifkin, Jeremy. *The Third Industrial Revolution: How the Internet, Green Electricity, and 3-D Printing are Ushering in a Sustainable Era of Distributed Capitalism*
+
+
+Un article de Paul Markillie (<http://www.economist.com/printedition/2012-04-21>) a *The Economist* l'abril de 2012 considerava les tecnologies de la impressió en 3D com el principi de la *tercera revolució industrial*. Si la primera revolució, a l'Anglaterra del segle XVIII, va consistir en la mecanització de la producció tèxtil, i la segona va venir a principis del segle XX de la mà de Henry Ford amb la cadena de muntatge i la corresponent producció en massa, la tercera revolució dibuixa l'horitzó de la fabricació *distribuïda*: amb un ordinador, eines de disseny en 3D, internet i una impressora 3D s'obre l'oportunitat de muntar una fàbrica a casa.
+
+
+Com ja va ocórrer amb la creació de l'ordinador personal, aquesta revolució ha estat possible, en bona part, gràcies a l'esforç i innovació dels *makers*, moviment basat en la filosofia de fes-ho tu mateix (*Do It Yourself*-DIY-). Els *makers* han desenvolupat impressores 3D de baix cost i n'han facilitat l'accés universal. I és aquesta circulació del coneixement lliure impulsada pels *makers* la que ha fet créixer una comunitat en xarxa d’artistes, creadors, dissenyadors, programadors, tecnòlegs i curiosos que estan portant els límits de la impressió en 3D a nous horitzons.
+
+[^maker]:Anderson, Chris. *Makers: The New Industrial Revolution*. New York: Crown Business, 2012. Print.
+
+
+Mira't aquest vídeo:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/X5AZzOw7FwA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<small>
+Font: Will 3D Printing Change the World? | Off Book | PBS
+</small>
+
+L'abast dels canvis que pot representar l'ús massiu de la impressió en 3D en diferents camps de la indústria actual és enorme. Et suggerim algunes evidències de la importància i l'impacte de la impressió en 3D en l'àmbit de la producció industrial. 
+
+1. **Simplificació  del procés i espai de fabricació** 
+2. **Varietat i creativitat en materials i formes**
+3. **Desaparició de la cadena de muntatge**
+4. **Producció sota demanda**
+5. **Replicació exacta d'objectes**
+
+
+**Atura't i reflexiona**: Com t'imagines l'evolució de la impressió en 3D d'aquí a vint-i-cinc anys? Creus que tothom tindrà una impressora 3D a casa com un electrodomèstic més, com ara l'ordinador, la rentadora o la nevera? Penses que pot ser semblant a la història que mostra el següent curt d'animació?
+
+<iframe src="http://player.vimeo.com/video/12768578?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<small>
+Font: *Full Printed* de [nueveojos](http://www.nueveojos.com/) curtmetratge d'animació per a l'exposició "Laboratori de fabricació" al museu Disseny HUB Barcelona. 
+</small>
+
+## Què puc fer amb una impressora 3D?
+
+Les possibilitats són infinites. Te n'esmentem quatre:
+
+* **Personalitzar**: t'imagines les tasses de cafè amb la forma del teu rostre? Al cap i a la fi, no hi ha serveis d'impressió gràfica personalitzada sobre samarretes, tasses o qualsevol objecte?   
+* **Reparar**: la promesa del 3D passa també per l'oportunitat de reparar eines, utensilis o qualsevol objecte que requereixi la substitució d'una o diverses de les peces perquè torni a funcionar.
+* **Dissenyar prototips**: el camp de la joieria és un cas il·lustratiu. Els dissenyadors podran fabricar prototips dels seus models des del seu estudi sense haver de desplaçar-se, abaratint costos de producció. Pensa també en complements de roba, protectors de mòbils o qualsevol altre objecte susceptible de ser imprès.
+* **Implantar nous models de negoci**: les tres possibilitats anteriors obren un nou horitzó d'expectatives en l'àmbit comercial.
+
+**Atura't i comparteix**: se t'acudeix un possible negoci basat en la impressió en 3D? Muntaries una botiga d'impressió en 3D al teu barri? Què oferiries al client? Planteja en el fòrum possibles projectes personals o comercials basats en la tecnologia de la impressió en 3D.
+
+
+## Com funciona la impressió en 3D?
+
+El procés de la impressió en 3D rep el nom tècnic de fabricació additiva (*additive manufacturing*). 
+
+Aquest vídeo t'ho mostra:
+
+<iframe src="http://player.vimeo.com/video/68039459?byline=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<small>
+Font: Douglas Sims. [Solidoodle 3D Printer in Action](https://www.youtube.com/watch?v=Aafp7EnzmOY) 
+</small>
+
+La fabricació additiva permet la creació d'objectes amb formes que, d'una altra manera, resultarien impossibles de fabricar. 
+
+
+## Procés de treball
+
+1. L'objecte és dissenyat per un especialista en modelatge en 3D a l'ordinador.
+2. Un cop tenim l'objecte modelat el programari de la impressora el talla en làmines molt fines (com els talls de pernil). Aquestes làmines reben el nom de *capes* (*layers*).
+3. La impressora utilitza la informació d'aquestes làmines per superposar-les una sobre l'altra i imprimir l'objecte en tres dimensions. 
+
+El temps necessari per a la impressió pot variar segons el grau de detall: a més detall, més temps necessitarà la impressora per crear el model.
+
+
+## Com és una impressora 3D?
+
+
+Com funcionen les impressores 3D? Si és la primera vegada que en sents parlar possiblement et vindrà al cap l'aspecte visual d'una impressora de paper domèstica o la fotocopiadora de l'oficina.
+
+Les diferències entre la impressora de paper i la de 3D són moltes i diverses, però la més important és que afegeix la dimensió de profunditat. Una impressora de paper imprimeix en dues dimensions (amplada i alçada) i, en canvi, una impressora 3D imprimeix objectes en tres dimensions (amplada, alçada i profunditat). 
+
+Observa les següents parts comunes d'una impressora 3D:
+
+- **Base/llit d'impressió** (*Print Bed*): és el suport en el qual el model reposa al llarg del procés d'impressió. Aquest suport pot ser calent (des de 40ºC fins a 100ºC) o fred segons el tipus de plàstic utilitzat amb la finalitat que la base del model 3D no es mogui mentre s'està imprimint. 
+- **Extrusor** (*Extruder*): és la part mecànica que "enganxa" el filament de plàstic i l'arrossega cap a la terminació tèrmica (*Hot-end*).
+- **Terminació tèrmica** (*Hot-end*): és una peça complexa formada per un escalfador (per fondre el plàstic), un sensor tèrmic i un petit extrusor que expulsa el plàstic fos en forma de filament.  
+- **Filament de plàstic** (*Plastic Filament*):  el filament de plàstic correspondria a la tinta de la impressora de paper. Si la impressora de paper expulsa tinta, la impressora 3D expulsa el filament de plàstic fos. Hi ha diferents tipus de filaments de plàstic. El més utilitzat és el PLA (Àcid Polilàctic), un plàstic biodegradable derivat del tubercle o del blat de moro. Necessita una temperatura de fusió de 180ºC - 220ºC i desprèn una olor semblant a les crispetes. En el moment que el filament de plàstic fos entra en contacte amb l'aire es refreda i recupera l'estat sòlid. 
+
+
+
+## Un futur incert i ple d'interrogants
+
+Què ens oferirà el futur de la impressió en 3D? Descobreix en aquests vídeos dos usos sorprenents i alhora oposats d'aquesta tecnologia:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/3f9ndZmyWxo?rel=0" frameborder="0" allowfullscreen></iframe>
+ 
+ <small>
+Font: BBC News World's first 3D-printed gun fired in US Published on May 6, 2013
+</small>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/WT3772yhr0o?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Si és possible imprimir qualsevol objecte amb una impressora 3D, tothom que en tingui una a casa pot imprimir una arma? 
+
+Aquest dos fets es van difondre a través dels mitjans de comunicació i les xarxes socials i va provocar un intens debat sobre les oportunitats i també els possibles perills de la impressió en 3D.
+
+**Atura’t i reflexiona**: pensa en les següents qüestions:
+
+* Què t'han suggerit els dos vídeos, el de [Cody Wilson](http://defcad.com/) mostrant la pistola 3D i el de Richard van As, creador del projecte [*Robohand*](https://www.facebook.com/pages/Robohand/260864887366912?ref=ts&fref=ts)? 
+* És possible regular qualsevol tecnologia d'ús universal i a l'abast de tothom com és el cas de la impressió en 3D? Podem imprimir-ho tot sense límits?  
+
+
+
+## Dissenya el teu primer model 3D
+
+>Però hi ha un altre qüestió a tenir en compte. Hem d'aprendre a dissenyar en 3D. Convertir les nostres idees en objectes 3D perquè funcionin en una impressora 3D requereix més que un simple clic al botó d'imprimir.
+> 
+>Dale Dougherty is the founder and publisher of MAKE. *Ultimate guide to 3D Printing*.
+
+Ens hi posem? Som-hi. Quin objecte t'agradaria tenir? 
+
+Per dissenyar i donar forma al teu primer model 3D necessitaràs una eina de modelatge en 3D. Trobaràs eines molt potents i lliures com aquestes:
+
+### Aplicacions web
+
+* [TinkerCad](https://tinkercad.com/)
+* [3dtin](http://www.3dtin.com/)
+
+### Aplicacions d'escriptori 
+
+* [Blender](http://www.blender.org/)
+* [Autodesk 123D](http://www.123dapp.com/)
+
+
+Són eines força intuïtives i permeten familiaritzar-se ràpidament amb el seu entorn de treball per a la creació de models senzills. En canvi, cal aprofundir en les funcionalitat de l'eina per dissenyar models complexos.
+
+**Atura't i comparteix**: troba i comparteix al fòrum vídeos tutorials de qualsevol programari de la llista que consideris d'ajuda per iniciar-te en aquestes eines. 
+
+**Apren en col·laboració**: recorda que també pots demanar consells als teus companys sobre el programari 3D i el seu funcionament.
+
+
+## Inspira't: cerca i descobreix models 3D a la xarxa
+
+Existeixen comunitats d'usuaris que comparteixen models 3D perquè puguis descarregar-los i modificar-los lliurement per poder imprimir-los. 
+
+**Thingiverse** <http://www.thingiverse.com/> és el servei més popular. Gràcies a la comunitat *maker* trobaràs molts models organitzats en diferents categories (joieria, art, matemàtiques, educatius...). A continuació se’t dóna una llista de models per començar a explorar:
+
+* **Mussol**: <http://www.thingiverse.com/thing:18218>, de Tom Cushwa
+* **Xiulet**: <http://www.thingiverse.com/thing:1046>, d'Eberhard Rensch
+* **Mr. Alligator**: <http://www.thingiverse.com/thing:13612>, de Randy Jamison 
+* **Screwless Cube Gears**: <http://www.thingiverse.com/thing:10483>, d'Emmett Lalish.
+
+### Recomanacions 
+
+* Tots els models 3D estan en un format anomenat  **.STL** (de *stereolithography* o l'acrònim *Standard Tessellation Language*). Aquest és el format estàndard per imprimir. Verifica si el teu modelador 3D importa i exporta models en aquest format.
+* Comença amb models senzills ja que aquests són fàcilment manipulables.
+* Descobreix si un model 3D ha estat manipulat per altres creadors i analitza els canvis que hi han realitzat: han modificat les proporcions, l'escala? Han barrejat dos models diferents per crear-ne un de nou?
+
+
+**Atura't i practica**: descarrega un model, obre'l amb una eina 3D i prova de modificar el seu aspecte original. Comparteix els teus progressos amb els teus companys.
+
+## Projecte
+
+Dissenya un model en 3D per compartir-lo a la xarxa. Pots fer-ho partint de zero o bé modificant un objecte que ja hagi estat dissenyat.
+
+Un cop hagis finalitzat el teu model 3D pots compartir-lo a la xarxa:
+
+* **Thingiverse**: <http://www.thingiverse.com/>: uneix-te a la comunitat de *makers*, ja n'ets un, i comparteix el teu model 3D. Qui sap si el teu treball inspirarà un altre *maker* en el disseny d'un nou model!
+* També pots fer servir el servei **3Dfile.io**: <http://3dfile.io/>. Aquest servei web et permetrà compartir una URL perquè tothom pugui visualitzar el teu model 3D amb el navegador.
+
+### Prepara el model per imprimir
+
+Si ets impacient, no tens una impressora 3D i vols veure el teu model fet realitat, trobaràs a la xarxa serveis professionals d'impressió en materials diferents (metall, plàstic, ceràmic) o, fins i tot, en colors.  
+
+* **Shapeways**: <http://www.shapeways.com>
+* **Ponoko**: <https://www.ponoko.com/>
+* **Sculpteo**: <http://www.sculpteo.com/en/>
+* **i.materialise**: <http://i.materialise.com/>
+* **Zoomrp**: <http://www.zoomrp.com/> 
+
+
+Recorda que cal exportar el model 3D en el format **.STL** perquè l'interpreti correctament la impressora 3D.
+
+**Atura't i comparteix**: ofereix la URL de la pàgina en la qual es troba el teu projecte en el fòrum i, si s'escau, comenta el projecte d'algun company. Si a més a més t'has decidit a imprimir-lo, publica fotografies de l'objecte imprès. Recorda incloure una moneda al costat del model per tal de tenir la referència de la mida de l'objecte imprès.
+
+**Aprèn en col·laboració**: recorda que pots utilitzar el fil general del fòrum **Aprèn en col·laboració** per consultar o plantejar aspectes generals del miniOP. Es tracta que entre tots us en sortiu.
+
+
