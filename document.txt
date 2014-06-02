@@ -45,6 +45,8 @@ Xavier Belanche
 
 Un article de Paul Markillie (<http://www.economist.com/printedition/2012-04-21>) a *The Economist* l'abril de 2012 considerava les tecnologies de la impressió en 3D com el principi de la *tercera revolució industrial*. Si la primera revolució, a l'Anglaterra del segle XVIII, va consistir en la mecanització de la producció tèxtil, i la segona va venir a principis del segle XX de la mà de Henry Ford amb la cadena de muntatge i la corresponent producció en massa, la tercera revolució dibuixa l'horitzó de la fabricació *distribuïda*: amb un ordinador, eines de disseny en 3D, internet i una impressora 3D s'obre l'oportunitat de muntar una fàbrica a casa.
 
+![01-3DPrinting-Industrial-Revolution.png](images/01-3DPrinting-Industrial-Revolution.png)
+
 
 Com ja va ocórrer amb la creació de l'ordinador personal, aquesta revolució ha estat possible, en bona part, gràcies a l'esforç i innovació dels *makers*, moviment basat en la filosofia de fes-ho tu mateix (*Do It Yourself*-DIY-). Els *makers* han desenvolupat impressores 3D de baix cost i n'han facilitat l'accés universal. I és aquesta circulació del coneixement lliure impulsada pels *makers* la que ha fet créixer una comunitat en xarxa d’artistes, creadors, dissenyadors, programadors, tecnòlegs i curiosos que estan portant els límits de la impressió en 3D a nous horitzons.
 
@@ -111,6 +113,8 @@ La fabricació additiva permet la creació d'objectes amb formes que, d'una altr
 
 El temps necessari per a la impressió pot variar segons el grau de detall: a més detall, més temps necessitarà la impressora per crear el model.
 
+![02-Graphic-3DPrinting-Process.png](images/02-Graphic-3DPrinting-Process.png)
+
 
 ## Com és una impressora 3D?
 
@@ -125,6 +129,8 @@ Observa les següents parts comunes d'una impressora 3D:
 - **Extrusor** (*Extruder*): és la part mecànica que "enganxa" el filament de plàstic i l'arrossega cap a la terminació tèrmica (*Hot-end*).
 - **Terminació tèrmica** (*Hot-end*): és una peça complexa formada per un escalfador (per fondre el plàstic), un sensor tèrmic i un petit extrusor que expulsa el plàstic fos en forma de filament.  
 - **Filament de plàstic** (*Plastic Filament*):  el filament de plàstic correspondria a la tinta de la impressora de paper. Si la impressora de paper expulsa tinta, la impressora 3D expulsa el filament de plàstic fos. Hi ha diferents tipus de filaments de plàstic. El més utilitzat és el PLA (Àcid Polilàctic), un plàstic biodegradable derivat del tubercle o del blat de moro. Necessita una temperatura de fusió de 180ºC - 220ºC i desprèn una olor semblant a les crispetes. En el moment que el filament de plàstic fos entra en contacte amb l'aire es refreda i recupera l'estat sòlid. 
+
+![03-3DPrinting-PrinterModel.png](images/03-3DPrinting-PrinterModel.png)
 
 
 
